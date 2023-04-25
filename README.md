@@ -31,5 +31,5 @@ Man kan forvente at man har fått sine opplysniger lagret og tilgjengeliggjort d
 <br>**Sikkerhet:** Vises ved søk på navn
 <br>**For å fjerne:** https://digipost.no/postkasse/settings/personlig → huk av “Synlighet ved søk”
 
-## Telefonkataloger
+### Telefonkataloger
 https://brreg.no/produkter-og-tjenester/reservasjon-mot-telefonsalg-og-adressert-reklame
