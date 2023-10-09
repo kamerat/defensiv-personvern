@@ -23,6 +23,16 @@ Man kan forvente at man har fått sine opplysniger lagret og tilgjengeliggjort d
 <br>**For å fjerne:** Klikk på Sikkerhet & Autoutfylling → huk av “husk opplysningene mine”→ bekreft på avmelding på e-post
 
 
+# Kredittsperringer
+Greit å sperre om du ikke har planer om å kjøpe noe. Skulle du også være så uheldig bli utsatt for id-tyveri vil ikke noen kunne ta opp kreditt i ditt navn om du har sperret alle tilbydere av kredittsjekk.
+_Denne listen kan være mangelfull. Her burde du selv være proaktiv på å se om det er flere du må sperre deg i. [Datatilsynet har også en liste](https://www.datatilsynet.no/personvern-pa-ulike-omrader/kredittvurdering/virksomheter-som-kredittvurderer/)_
+
+* [CreditSafe](https://www.creditsafe.com/no/no/kontakt/ofte-stilte-sporsmal/min-side.html)
+* [Dun & Bradstreet Norge AS (Tidligere Bisnode)](https://soliditet.no/privatpersoner/auth)
+* [Experian](https://www.minexperian.no)
+* [Tietoevry](https://kredittsperre.infotorg.no/)
+
+
 # Andre
 
 ### Digipost
