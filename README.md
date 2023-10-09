@@ -43,3 +43,5 @@ _Denne listen kan være mangelfull. Her burde du selv være proaktiv på å se o
 
 ### Telefonkataloger
 https://brreg.no/produkter-og-tjenester/reservasjon-mot-telefonsalg-og-adressert-reklame
+<br><br>Dun & Bradstreet (Bisnode) selger også opplysningene dine til tredjepart som bla nummeropplysninger. Her kan du reserverer deg mot dette:
+https://soliditet.no/privatpersoner/reservation
